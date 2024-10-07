@@ -8,9 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/daniel/OHS/ws2812c_test/include",
-                "/Users/daniel/OHS/ws2812c_test/src",
-                "/Users/daniel/OHS/ws2812c_test/.pio/libdeps/genericSTM32F103CB/Adafruit NeoPixel",
+                "/Users/daniel/OHS/DccDiyTools/DDT_8SwitchPanel/firmware/include",
+                "/Users/daniel/OHS/DccDiyTools/DDT_8SwitchPanel/firmware/src",
+                "/Users/daniel/OHS/DccDiyTools/DDT_8SwitchPanel/firmware/.pio/libdeps/genericSTM32F103CB/Adafruit NeoPixel",
                 "/Users/daniel/.platformio/packages/framework-arduinoststm32/cores/arduino/avr",
                 "/Users/daniel/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32",
                 "/Users/daniel/.platformio/packages/framework-arduinoststm32/libraries/SrcWrapper/inc",
@@ -52,9 +52,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/daniel/OHS/ws2812c_test/include",
-                    "/Users/daniel/OHS/ws2812c_test/src",
-                    "/Users/daniel/OHS/ws2812c_test/.pio/libdeps/genericSTM32F103CB/Adafruit NeoPixel",
+                    "/Users/daniel/OHS/DccDiyTools/DDT_8SwitchPanel/firmware/include",
+                    "/Users/daniel/OHS/DccDiyTools/DDT_8SwitchPanel/firmware/src",
+                    "/Users/daniel/OHS/DccDiyTools/DDT_8SwitchPanel/firmware/.pio/libdeps/genericSTM32F103CB/Adafruit NeoPixel",
                     "/Users/daniel/.platformio/packages/framework-arduinoststm32/cores/arduino/avr",
                     "/Users/daniel/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32",
                     "/Users/daniel/.platformio/packages/framework-arduinoststm32/libraries/SrcWrapper/inc",
@@ -95,7 +95,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=60115",
+                "PLATFORMIO=60116",
                 "STM32F030x6",
                 "LED=PB5",
                 "SERIAL_OUT=Serial1",
