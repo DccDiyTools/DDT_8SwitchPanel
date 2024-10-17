@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "stdexcept": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp"
+    }
+}
